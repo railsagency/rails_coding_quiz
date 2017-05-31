@@ -1,6 +1,6 @@
 # LD Studios Taco Shop.  Build a Taco Ordering API!  Yum!
 
-## We're Looking For in a candidate
+## What We Look For In A Candidate
 
   1. Knowledge of Ruby on Rails.
   2. Can work with technologies (i.e. Angular) that you may not have seen before.

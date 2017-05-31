@@ -3,8 +3,9 @@
 ## What We Look For In A Candidate
 
   1. Knowledge of Ruby on Rails.
+  2. Familiarity with Javascript.
   2. Can work with technologies (i.e. Angular) that you may not have seen before.
-  3. Can work independently and troubleshoot issues with minimal requirements or guidance.
+  3. Can work independently and troubleshoot issues with minimal requirements and guidance.
 
 ## Requirements
 

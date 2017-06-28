@@ -9,17 +9,19 @@
 
 ## Requirements
 
-#### Step 1: Build a Rails API that supports the provided Angular App (see /index.html):
+#### Step 1: Build a Ruby on Rails application that serves the provided Angular App (see /index.html)
 
-  The API should respond to the following endpoints:
+  When you visit `http://localhost:3000/` you should see the the Angular app!
+
+#### Step 2: Build a JSON API into the app you made in Step 1 that responds to the following endpoints:
 
   1. `GET /tacos` - Returns a list of all tacos in the database
   2. `POST /tacos` - Creates a taco with the given parameters
   3. `DELETE /tacos/:id` - Removes the taco with this ID from the database
 
-#### Step 2: Upload your completed solution to a public Github repository so we can review.
+#### Step 3: Upload your completed solution to a public Github repository so we can review.
 
-#### Step 3: Host the working solution on Heroku and send the Heroku App URL to us for review.
+#### Step 4: Host the working solution on Heroku and send the Heroku App URL to us for review.
 
 ## Completely Optional Bonuses Features: 
 

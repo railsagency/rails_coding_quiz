@@ -9,7 +9,9 @@
 
 ## Requirements
 
-#### Step 1: Build a Rails API that responds to the following endpoints:
+#### Step 1: Build a Rails API that works with the Angular App (see /index.html):
+
+  The API should respond to the following endpoints:
 
   1. `GET /tacos` - Returns a list of all tacos in the database
   2. `POST /tacos` - Creates a taco with the given parameters

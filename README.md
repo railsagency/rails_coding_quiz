@@ -5,19 +5,17 @@
   1. Knowledge of Ruby on Rails.
   2. Familiarity with Javascript.
   2. Can work with technologies (i.e. Angular) that you may not have seen before.
-  3. Can work independently and troubleshoot issues with minimal requirements and guidance.
+  3. Can work independently and troubleshoot issues with **minimal requirements and guidance**.
 
 ## Requirements
 
-#### Step 1: Build a Rails API that works with the Angular App (see /index.html):
+#### Step 1: Build a Rails API that supports the provided Angular App (see /index.html):
 
   The API should respond to the following endpoints:
 
   1. `GET /tacos` - Returns a list of all tacos in the database
   2. `POST /tacos` - Creates a taco with the given parameters
   3. `DELETE /tacos/:id` - Removes the taco with this ID from the database
-
-  The development server should work with the provided client page.
 
 #### Step 2: Upload your completed solution to a public Github repository so we can review.
 

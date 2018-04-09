@@ -11,7 +11,7 @@
 
 #### Step 1: Build a Ruby on Rails application that serves the provided Angular App (see /index.html)
 
-  When you visit `http://localhost:3000/` you should see the the Angular app!
+  When you visit `http://localhost:3000/` you should see the Angular app!
 
 #### Step 2: Build a JSON API into the app you made in Step 1 that responds to the following endpoints:
 

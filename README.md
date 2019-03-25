@@ -23,7 +23,7 @@
 
 #### Step 4: Host the working solution on [Heroku](https://www.heroku.com/) and send the Heroku App URL to us for review.
 
-## Completely Optional Bonuses Features: 
+## Bonuses Features: 
 
   1.  Add RSpec tests for the controller and model.
   2.  Add Validations to the Taco model.

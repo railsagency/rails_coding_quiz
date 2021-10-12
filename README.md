@@ -13,7 +13,7 @@
 
   When you visit `http://localhost:3000/` you should see the Angular app!
 
-#### Step 2: Build a JSON API into the app you made in Step 1 that responds to the following endpoints:
+#### Step 2: Build a JSON API that responds to the following endpoints:
 
   1. `GET /tacos` - Returns a list of all tacos in the database
   2. `POST /tacos` - Creates a taco with the given parameters
